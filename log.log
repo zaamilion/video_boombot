@@ -1,0 +1,16 @@
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @video_boombot id=7225540681 - '������ ���'
+INFO:aiogram.event:Update id=980927630 is handled. Duration 6063 ms by bot id=7225540681
+INFO:aiogram.event:Update id=980927631 is handled. Duration 6422 ms by bot id=7225540681
+INFO:aiogram.event:Update id=980927632 is handled. Duration 0 ms by bot id=7225540681
+INFO:aiogram.event:Update id=980927633 is handled. Duration 0 ms by bot id=7225540681
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @video_boombot id=7225540681 - '������ ���'
+INFO:aiogram.event:Update id=980927634 is handled. Duration 5454 ms by bot id=7225540681
+INFO:aiogram.event:Update id=980927635 is handled. Duration 7172 ms by bot id=7225540681
+INFO:aiogram.event:Update id=980927636 is not handled. Duration 0 ms by bot id=7225540681
+INFO:aiogram.event:Update id=980927637 is handled. Duration 3906 ms by bot id=7225540681
+INFO:aiogram.event:Update id=980927638 is not handled. Duration 0 ms by bot id=7225540681
+INFO:aiogram.event:Update id=980927639 is not handled. Duration 0 ms by bot id=7225540681
